@@ -12,7 +12,7 @@ Trabajaremos con Gitflow siguiendo la siguiente ramificacion:
 
 *INDICACIONES ADICIONALES*
 1. Todos los features propuestos y los que se vayan a implementar a futuro deberan desarrollarse en ramas que nazcan de Develop. 
-2. Cuando terminen de trabajar en un feature, deben hacer un Merge Request y notificarme para la revision del codigo. 
+2. Cuando terminen de trabajar en un feature, deben hacer un Pull Request y notificarme para la revision del codigo. 
       (La rama fuente sera la del feature, y la rama a la que solicitaran hacerle merge sera Develop)
 3. Nadie toca nunca la rama master a excepcion de mi.
 4. Las ramas diseñoDado, logicaDado y logicaGiro fueron creadas considerando lo que yo veo como requisitos primordiales para la página que desarrollaremos. Pueden modificarse si se considera que no describen correctamente el feature.
